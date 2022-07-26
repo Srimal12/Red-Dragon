@@ -35,7 +35,7 @@ global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = 'Tigger' //Bot Pacage Name
-global.author = 'srimal' //Author Name
+global.author = 'srimal dinetg' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
