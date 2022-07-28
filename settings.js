@@ -1,4 +1,4 @@
-//════════════(00)════════════════\\
+7//════════════(00)════════════════\\
 //
 //          RED DRAGON v6.0
 //
@@ -26,21 +26,21 @@ global.owner = ['+94761545411'] //Owner number in aive msg
 global.premium = ['+94761545411'] //Owner Number info
 global.ownernomer = '+94761545411' //Owner Number <<<
 
-global.ownername = 'srimal' //Owner Name
-global.botname = ' Tigger☆' //Bot Name
+global.ownername = 'Real__iduwa' //Owner Name
+global.botname = ' ❤️⃟⃟◍̸̸̸̸̣̣̣❀Black dragon' //Bot Name
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = 'Tigger' //Bot Pacage Name
-global.author = 'srimal dinetg' //Author Name
+global.packname = 'Black dragon' //Bot Pacage Name
+global.author = 'Real__iduwa' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = 'srimal' //In list menu
+global.footer = 'Real__iduwa' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
