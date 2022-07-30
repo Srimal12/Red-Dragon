@@ -19,8 +19,8 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is Tigger
-My Creator is srimal dineth` //Costomize Alive Message (*Hey i'am online now...*`` )
+global.alivemsg = `My name is Black dragon
+My Creator is Real__iduwa` //Costomize Alive Message (*Hey i'am online now...*`` )
 
 global.owner = ['+94761545411'] //Owner number in aive msg
 global.premium = ['+94761545411'] //Owner Number info
@@ -39,7 +39,7 @@ global.author = 'Real__iduwa' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '⭕' // Menu emoji
 global.footer = 'Real__iduwa' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
